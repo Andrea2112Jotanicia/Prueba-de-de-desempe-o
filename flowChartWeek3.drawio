@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Inventory Flowchart" id="3ks5Bg_c6Htup4eCyQOs">
+    <mxGraphModel dx="1111" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s-PEoS16SGPorhOTLwFl-9" edge="1" parent="1" source="s-PEoS16SGPorhOTLwFl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s-PEoS16SGPorhOTLwFl-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-1" parent="1" style="ellipse" value="Start" vertex="1">
+          <mxGeometry height="60" width="120" x="433" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-4" parent="1" style="ellipse" value="End" vertex="1">
+          <mxGeometry height="60" width="120" x="433" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-10" edge="1" parent="1" source="s-PEoS16SGPorhOTLwFl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s-PEoS16SGPorhOTLwFl-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Show menu" vertex="1">
+          <mxGeometry height="60" width="120" x="433" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-11" edge="1" parent="1" source="s-PEoS16SGPorhOTLwFl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s-PEoS16SGPorhOTLwFl-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Select&amp;nbsp;&lt;div&gt;Option&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="280" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-14" edge="1" parent="1" source="s-PEoS16SGPorhOTLwFl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="s-PEoS16SGPorhOTLwFl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Process Option" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-12" edge="1" parent="1" source="s-PEoS16SGPorhOTLwFl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s-PEoS16SGPorhOTLwFl-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-13" connectable="0" parent="s-PEoS16SGPorhOTLwFl-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.1556" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-15" edge="1" parent="1" source="s-PEoS16SGPorhOTLwFl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s-PEoS16SGPorhOTLwFl-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-16" connectable="0" parent="s-PEoS16SGPorhOTLwFl-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s-PEoS16SGPorhOTLwFl-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Exit" vertex="1">
+          <mxGeometry height="80" width="80" x="453" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
